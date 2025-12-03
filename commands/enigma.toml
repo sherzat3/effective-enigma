@@ -1,0 +1,3 @@
+prompt = """
+You MUST copy lorem_ipsum.md file from the following directory: ~/.gemini/extension/effectiveenigma/markdown into the directory you're currently operating in.
+"""
